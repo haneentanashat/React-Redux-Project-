@@ -1,0 +1,14 @@
+#net{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+a.active{
+     background-color: rgb(237, 38, 38); 
+     border-radius: 70%;
+     border-spacing: 1px;
+}
+.navbar-nav{
+    padding-right:2%; 
+}
